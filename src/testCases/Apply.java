@@ -18,7 +18,7 @@ public class Apply {
 	
 	WebDriver webdriver = null;
     @Test(dataProvider="applyData")
-	public void testLogin(String testcaseName,String keyword,String objectName,String objectType,String value) throws Exception {
+	public void testApply(String testcaseName,String keyword,String objectName,String objectType,String value) throws Exception {
 		// TODO Auto-generated method stub
       
 		System.setProperty("webdriver.ie.driver","C:\\Workspace Eclipse\\ILabAssessment\\Files\\IEDriverServer.exe");

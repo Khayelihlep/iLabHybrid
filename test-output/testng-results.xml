@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32102" started-at="2019-10-07T19:11:54Z" finished-at="2019-10-07T19:12:26Z">
+  <suite name="Default suite" duration-ms="30154" started-at="2019-10-08T01:37:06Z" finished-at="2019-10-08T01:37:36Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="32102" started-at="2019-10-07T19:11:54Z" finished-at="2019-10-07T19:12:26Z">
+    <test name="Default test" duration-ms="30154" started-at="2019-10-08T01:37:06Z" finished-at="2019-10-08T01:37:36Z">
       <class name="testCases.Apply">
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@5792a0]" name="testLogin" duration-ms="3043" started-at="2019-10-07T21:11:55Z" data-provider="applyData" finished-at="2019-10-07T21:11:58Z">
+        <test-method status="PASS" signature="testApply(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@e45eb6]" name="testApply" duration-ms="3792" started-at="2019-10-08T03:37:06Z" data-provider="applyData" finished-at="2019-10-08T03:37:10Z">
           <params>
             <param index="0">
               <value>
@@ -37,8 +37,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@5792a0]" name="testLogin" duration-ms="9624" started-at="2019-10-07T21:11:58Z" data-provider="applyData" finished-at="2019-10-07T21:12:08Z">
+        </test-method> <!-- testApply -->
+        <test-method status="PASS" signature="testApply(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@e45eb6]" name="testApply" duration-ms="7916" started-at="2019-10-08T03:37:10Z" data-provider="applyData" finished-at="2019-10-08T03:37:18Z">
           <params>
             <param index="0">
               <value>
@@ -68,8 +68,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@5792a0]" name="testLogin" duration-ms="4041" started-at="2019-10-07T21:12:08Z" data-provider="applyData" finished-at="2019-10-07T21:12:12Z">
+        </test-method> <!-- testApply -->
+        <test-method status="PASS" signature="testApply(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@e45eb6]" name="testApply" duration-ms="3734" started-at="2019-10-08T03:37:18Z" data-provider="applyData" finished-at="2019-10-08T03:37:22Z">
           <params>
             <param index="0">
               <value>
@@ -99,8 +99,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@5792a0]" name="testLogin" duration-ms="3714" started-at="2019-10-07T21:12:12Z" data-provider="applyData" finished-at="2019-10-07T21:12:15Z">
+        </test-method> <!-- testApply -->
+        <test-method status="PASS" signature="testApply(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@e45eb6]" name="testApply" duration-ms="3358" started-at="2019-10-08T03:37:22Z" data-provider="applyData" finished-at="2019-10-08T03:37:25Z">
           <params>
             <param index="0">
               <value>
@@ -130,8 +130,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@5792a0]" name="testLogin" duration-ms="3624" started-at="2019-10-07T21:12:15Z" data-provider="applyData" finished-at="2019-10-07T21:12:19Z">
+        </test-method> <!-- testApply -->
+        <test-method status="PASS" signature="testApply(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@e45eb6]" name="testApply" duration-ms="3194" started-at="2019-10-08T03:37:25Z" data-provider="applyData" finished-at="2019-10-08T03:37:28Z">
           <params>
             <param index="0">
               <value>
@@ -161,8 +161,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@5792a0]" name="testLogin" duration-ms="751" started-at="2019-10-07T21:12:19Z" data-provider="applyData" finished-at="2019-10-07T21:12:20Z">
+        </test-method> <!-- testApply -->
+        <test-method status="PASS" signature="testApply(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@e45eb6]" name="testApply" duration-ms="678" started-at="2019-10-08T03:37:28Z" data-provider="applyData" finished-at="2019-10-08T03:37:29Z">
           <params>
             <param index="0">
               <value>
@@ -192,8 +192,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@5792a0]" name="testLogin" duration-ms="551" started-at="2019-10-07T21:12:20Z" data-provider="applyData" finished-at="2019-10-07T21:12:20Z">
+        </test-method> <!-- testApply -->
+        <test-method status="PASS" signature="testApply(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@e45eb6]" name="testApply" duration-ms="540" started-at="2019-10-08T03:37:29Z" data-provider="applyData" finished-at="2019-10-08T03:37:30Z">
           <params>
             <param index="0">
               <value>
@@ -223,8 +223,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@5792a0]" name="testLogin" duration-ms="861" started-at="2019-10-07T21:12:20Z" data-provider="applyData" finished-at="2019-10-07T21:12:21Z">
+        </test-method> <!-- testApply -->
+        <test-method status="PASS" signature="testApply(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@e45eb6]" name="testApply" duration-ms="621" started-at="2019-10-08T03:37:30Z" data-provider="applyData" finished-at="2019-10-08T03:37:30Z">
           <params>
             <param index="0">
               <value>
@@ -254,8 +254,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@5792a0]" name="testLogin" duration-ms="801" started-at="2019-10-07T21:12:21Z" data-provider="applyData" finished-at="2019-10-07T21:12:22Z">
+        </test-method> <!-- testApply -->
+        <test-method status="PASS" signature="testApply(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@e45eb6]" name="testApply" duration-ms="830" started-at="2019-10-08T03:37:30Z" data-provider="applyData" finished-at="2019-10-08T03:37:31Z">
           <params>
             <param index="0">
               <value>
@@ -285,8 +285,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@5792a0]" name="testLogin" duration-ms="4261" started-at="2019-10-07T21:12:22Z" data-provider="applyData" finished-at="2019-10-07T21:12:26Z">
+        </test-method> <!-- testApply -->
+        <test-method status="PASS" signature="testApply(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@e45eb6]" name="testApply" duration-ms="4689" started-at="2019-10-08T03:37:31Z" data-provider="applyData" finished-at="2019-10-08T03:37:36Z">
           <params>
             <param index="0">
               <value>
@@ -316,8 +316,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@5792a0]" name="testLogin" duration-ms="271" started-at="2019-10-07T21:12:26Z" data-provider="applyData" finished-at="2019-10-07T21:12:26Z">
+        </test-method> <!-- testApply -->
+        <test-method status="PASS" signature="testApply(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@e45eb6]" name="testApply" duration-ms="171" started-at="2019-10-08T03:37:36Z" data-provider="applyData" finished-at="2019-10-08T03:37:36Z">
           <params>
             <param index="0">
               <value>
@@ -347,8 +347,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@5792a0]" name="testLogin" duration-ms="0" started-at="2019-10-07T21:12:26Z" data-provider="applyData" finished-at="2019-10-07T21:12:26Z">
+        </test-method> <!-- testApply -->
+        <test-method status="PASS" signature="testApply(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.Apply@e45eb6]" name="testApply" duration-ms="10" started-at="2019-10-08T03:37:36Z" data-provider="applyData" finished-at="2019-10-08T03:37:36Z">
           <params>
             <param index="0">
               <value>
@@ -378,7 +378,7 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
+        </test-method> <!-- testApply -->
       </class> <!-- testCases.Apply -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
